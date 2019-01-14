@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Paleta de cores\Paleta de cores\bin\Debug\Paleta de cores.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\bin\Debug\Paleta de cores.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\bin\Debug\Paleta de cores.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta de cores.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta_de_cores.Form1.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta_de_cores.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta de cores.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta de cores.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\Paleta de cores\Paleta de cores\obj\Debug\Paleta de cores.pdb
